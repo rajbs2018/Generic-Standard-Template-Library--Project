@@ -1,9 +1,9 @@
 ///////////////////////////////////////////////////////////////////////////////////////////////////////
 //
-// Function Name : Singly Linked List.
+// Function Name	 : Singly Linked List.
 // Input		 : Integer ,float , character.
 // Output		 : Integer , float, character.
-// Description   : It is Used to store and remove data from linked list.
+// Description		 : It is Used to store and remove data from linked list.
 // Author		 : Rajkumar Sonawane
 // Date			 : 28/Nov/2021
 //
